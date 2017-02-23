@@ -13,21 +13,33 @@ brew install caskroom/cask/brew-cask
 # daily
 brew cask install spectacle
 brew cask install dropbox
-brew cask install gyazo
-brew cask install 1password
-brew cask install rescuetime
-brew cask install flux
+# brew cask install gyazo
+#brew cask install 1password
+# brew cask install rescuetime
+# brew cask install flux
 
 # dev
 brew cask install iterm2
 brew cask install sublime-text
 brew cask install imagealpha
 brew cask install imageoptim
+brew cask install filezilla
+brew cask install gimp
+brew cask install java
+brew cask install jedit
+brew cask install libreoffice
+brew cask install mysqlworkbench
+brew cask install sequel-pro
+
+brew cask install the-unarchiver
+brew cask install thunderbird
+brew cask install virtualbox
+
 
 # fun
-brew cask install limechat
-brew cask install miro-video-converter
-brew cask install horndis               # usb tethering
+#brew cask install limechat
+#brew cask install miro-video-converter
+#brew cask install horndis               # usb tethering
 
 # browsers
 # brew cask install google-chrome-canary
@@ -37,11 +49,11 @@ brew cask install horndis               # usb tethering
 # brew cask install torbrowser
 
 # less often
-brew cask install disk-inventory-x
-brew cask install screenflow
-brew cask install vlc
-brew cask install gpgtools
-brew cask install licecap
+# brew cask install disk-inventory-x
+# brew cask install screenflow
+# brew cask install vlc
+# brew cask install gpgtools
+# brew cask install licecap
 # brew cask install utorrent
 
 

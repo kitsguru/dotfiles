@@ -1,0 +1,11 @@
+filezilla
+gimp
+java
+jedit
+libreoffice
+mysqlworkbench
+sequel-pro
+sublime-text
+the-unarchiver
+thunderbird
+virtualbox
